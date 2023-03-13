@@ -1,6 +1,6 @@
 var index ;
 var questions = [
-  ["1. Which Human sex has more pain tolerance?","a. MALE","b. FEMALE","c. Both MALE and FEMALE",1],
+  ["1. Which Human sex has more pain tolerance?","a. MALE","b. FEMALE","c. Both MALE and FEMALE are same",1],
   ["2. What affects Linear Time flow?","a. Gravity","b. Speed","c. Time is Constant",0],
   ["3. What would be the radius of earth if it gets converted into a black-hole?", "a. 1.5 Km","b. 1.5 m","c. 1.5 mm",2]
 ]
